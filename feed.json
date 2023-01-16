@@ -1,0 +1,68 @@
+{
+    "input1": [{
+            "item": "Book",
+            "category": "books",
+            "quantity": "2",
+            "price": "24.98",
+            "imported": "no"
+        },
+        {
+            "item": "Music CD",
+            "category": "music",
+            "quantity": "1",
+            "price": "14.99",
+            "imported": "no"
+        },
+        {
+            "item": "Chocolate bar",
+            "category": "food",
+            "quantity": "1",
+            "price": "0.85",
+            "imported": "no"
+        }
+    ],
+    "input2": [{
+            "item": "Imported box of chocolates",
+            "category": "food",
+            "quantity": "1",
+            "price": "10.00",
+            "imported": "yes"
+        },
+        {
+            "item": "Imported bottle of perfume",
+            "category": "cosmetics",
+            "quantity": "1",
+            "price": "47.50",
+            "imported": "yes"
+        }
+    ],
+    "input3": [{
+            "item": "Imported bottle of perfume",
+            "category": "cosmetics",
+            "quantity": "1",
+            "price": "27.99",
+            "imported": "yes"
+        },
+        {
+            "item": "Bottle of perfume",
+            "category": "cosmetics",
+            "quantity": "1",
+            "price": "18.99",
+            "imported": "no"
+        },
+        {
+            "item": "Packet of headache pills",
+            "category": "medicines",
+            "quantity": "1",
+            "price": "9.75",
+            "imported": "no"
+        },
+        {
+            "item": "Box of imported chocolates",
+            "category": "food",
+            "quantity": "3",
+            "price": "33.75",
+            "imported": "yes"
+        }
+    ]
+}
